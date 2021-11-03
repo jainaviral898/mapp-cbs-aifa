@@ -14,7 +14,7 @@ The path of the robots in which the cell are in normal state, only one robot can
 
 ## Input Format
 
-Use the input format file to give the inputs, fill in the stops made by the robots.
+Use the input.yaml file to give the inputs, fill in the stops made by the robots.
 
 The obstacles are to be included in the given format. 
 
