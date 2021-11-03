@@ -1,6 +1,7 @@
+# Artificial Intelligence Foundations and Applications (AI61005), IIT Kharagpur
 # AIFA Term Assignment
 
-## Multi Agent Path finding problem using conflict based search
+## Multi Agent Pathfinding Problem using Conflict Based Search (CBS) and its applications in Agriculture
 
 Multi-agent pathfinding is to find the paths for multiple agents from their current locations to their target locations without colliding with each other, while at the same time optimizing a cost function, such as the sum of the path lengths of all agents. 
 
