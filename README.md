@@ -1,5 +1,4 @@
-# Artificial Intelligence Foundations and Applications (AI61005), IIT Kharagpur
-# AIFA Term Assignment
+# Artificial Intelligence Foundations and Applications (AI61005) IIT Kharagpur - Term Assignment
 
 ## Multi Agent Pathfinding Problem using Conflict Based Search (CBS) and its applications in Agriculture
 
