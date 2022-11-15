@@ -2,23 +2,21 @@
 
 ## Multi Agent Pathfinding Problem using Conflict Based Search (CBS) and its applications in Agriculture
 
-Multi-agent pathfinding is to find the paths for multiple agents from their current locations to their target locations without colliding with each other, while at the same time optimizing a cost function, such as the sum of the path lengths of all agents. 
+Multi-agent pathfinding algorithm is responsible for finding the paths for multiple agents from their current locations to their target locations without colliding with each other, while at the same time optimizing a global cost function, such as the sum of the path lengths of all agents. 
 
 
-The problem is coded by giving the input for the starting point and the end destinations with the obstacles given as the points that cannot be accessed by the robots. We assume the workhouse as a matrix with the coordinates representing the desired location.
+The problem is formulated by giving the input for the coordinates of the source and the destinations, with the obstacles given as the points that cannot be accessed by the robots. We assume the workhouse as a matrix with the coordinates representing the desired location.
 
-The path of the robots in which the cell are in normal state, only one robot can exist in that cell. We develop an algorithm to get the tassks done in the minimum time possible. 
+The path of the robots in which the cell are in normal state, only one robot can exist in that cell. We develop an algorithm to get the tasks done in the minimum time possible.
 
 ![image](https://user-images.githubusercontent.com/50842568/140016269-78703773-f00a-44aa-b2d2-ec59d632679a.png)
 
 
 ## Input Format
 
-Use the input.yaml file to give the inputs, fill in the stops made by the robots.
+Use the input_format.yaml file to give the inputs, fill in the stops made by the robots.
 
 The obstacles are to be included in the given format. 
-
-**Note: Do not change the data format for obstacles input.** 
 
 # References
 
