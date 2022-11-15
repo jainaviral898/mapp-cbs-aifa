@@ -7,7 +7,7 @@ Multi-agent pathfinding algorithm is responsible for finding the paths for multi
 
 The problem is formulated by giving the input for the coordinates of the source and the destinations, with the obstacles given as the points that cannot be accessed by the robots. We assume the workhouse as a matrix with the coordinates representing the desired location.
 
-The path of the robots in which the cell are in normal state, only one robot can exist in that cell. We develop an algorithm to get the tasks done in the minimum time possible.
+The path of the robots in which the cell are in normal state, only one robot can exist in that cell. We develop an algorithm to get the tasks done in the minimum time possible. The methodology is discussed in further detail ![here](https://github.com/jainaviral898/mapp-cbs-aifa/blob/main/AIFA%20Term%20Assignment.pdf).
 
 ![image](https://user-images.githubusercontent.com/50842568/140016269-78703773-f00a-44aa-b2d2-ec59d632679a.png)
 
